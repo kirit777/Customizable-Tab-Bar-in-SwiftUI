@@ -73,6 +73,14 @@ The `TabBarView` component allows users to add tabs by selecting from the `avail
 
 The `TabBarView` will display each tab and navigate to the respective view when selected. It is set up to allow the user to add more tabs dynamically and remove them if necessary.
 
+## result
+
+
+
+https://github.com/user-attachments/assets/d6906263-0753-430e-908b-f818bb91e231
+
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
